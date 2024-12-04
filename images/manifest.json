@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://priscilla-carmini.github.io/iiif-workshop/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in priscilla-carmini/iiif-workshop project"
+        ]
+    },
+    "items": []
+}
