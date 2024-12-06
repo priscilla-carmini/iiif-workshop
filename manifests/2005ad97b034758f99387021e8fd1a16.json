@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cat",
+      "@type" : "oa:Tag",
+      "chars" : "cat"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cat sitting",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cat sitting</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57642282",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-12-06T13:53:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733493184057",
+    "dcterms:modified" : "2024-12-06T13:53:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://priscilla-carmini.github.io/iiif-workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=801,565,436,296"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M800.87548,564.95764h218.20154v0h218.20154v148.11168v148.11168h-218.20154h-218.20154v-148.11168z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_03608eaf-0e75-44af-9623-28a2f3e69728\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1826ffdf-9965-41e7-9d78-bb5dbbcbd475"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "pussywillow",
+      "@type" : "oa:Tag",
+      "chars" : "pussywillow"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pussywillow plant",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pussywillow plant</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/57642282",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-12-06T13:53:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733493203437",
+    "dcterms:modified" : "2024-12-06T13:53:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://priscilla-carmini.github.io/iiif-workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=736,96,328,300"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M783.9459,140.46924c30.23774,-25.22273 72.89297,-44.00524 115.75491,-43.9828v0v0c42.86194,0.02244 80.20187,17.59318 115.75491,43.9828c35.55303,26.38962 49.37205,66.60231 47.94725,106.18386c-1.42479,39.58155 -18.0934,78.53198 -47.94725,106.18386c-29.85386,27.65189 -72.89297,44.00524 -115.75491,43.9828c-42.86194,-0.02244 -85.5467,-16.42067 -115.75491,-43.9828c-30.20821,-27.56212 -47.93987,-66.28814 -47.94725,-106.18386c-0.00738,-39.89572 17.70951,-80.96114 47.94725,-106.18386z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_1dea6754-d049-460b-a2aa-6c9197dd0021\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1826ffdf-9965-41e7-9d78-bb5dbbcbd475"
+    } ]
+  } ],
+  "@id" : "https://priscilla-carmini.github.io/iiif-workshop/manifests/2005ad97b034758f99387021e8fd1a16.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
