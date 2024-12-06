@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://priscilla-carmini.github.io/iiif-workshop/annotations/2005ad97b034758f99387021e8fd1a16.json" ],
+  "@id" : "https://priscilla-carmini.github.io/iiif-workshop/annotations/collection.json",
+  "label" : "All annotations loaded in priscilla-carmini/iiif-workshop project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
