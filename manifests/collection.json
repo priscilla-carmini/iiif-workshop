@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://priscilla-carmini.github.io/iiif-workshop/manifests/manifest2.json",
     "label" : "Cat Picture"
+  }, {
+    "@type" : "sc:AnnotationList",
+    "@id" : "https://priscilla-carmini.github.io/iiif-workshop/manifests/annotations.json",
+    "label" : null
   } ]
 }
